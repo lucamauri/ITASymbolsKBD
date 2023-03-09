@@ -9,3 +9,11 @@ A keyboard layout based on IT-IT with useful additional symbols
 | `—`     |             | [Lineetta emme](https://it.wikipedia.org/wiki/Lineetta#Lineetta_emme)      |      |
 | `«`     |             | [virgolette basse doppie](https://it.wikipedia.org/wiki/Virgolette)        |      |
 | `»`     |             | [virgolette basse doppie](https://it.wikipedia.org/wiki/Virgolette)        |      |
+
+## Come installare il layout
+
+1. Scarica e installa [Microsoft Keyboard Layout Creator](https://www.microsoft.com/en-us/download/details.aspx?id=102134).
+2. Carica il Load *iso-custom-keyboard-layout.klc* or *ansi-custom-keyboard-layout.klc*: `File > Load Source File`.
+3. Compila il progetto: `Project > Build DLL and Setup Package`.
+4. Avvia il file `.exe` generato dal passo precedente.
+5. Attiva il layout in ` Impostazioni > Data/ora e lingua > Lingua`.
